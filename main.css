@@ -1,0 +1,237 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    box-sizing: border-box;
+    poppins-thin {
+        font-family: "Poppins", sans-serif;
+        font-weight: 100;
+        font-style: normal;
+      }
+      
+      .poppins-extralight {
+        font-family: "Poppins", sans-serif;
+        font-weight: 200;
+        font-style: normal;
+      }
+      
+      .poppins-light {
+        font-family: "Poppins", sans-serif;
+        font-weight: 300;
+        font-style: normal;
+      }
+      
+      .poppins-regular {
+        font-family: "Poppins", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+      }
+      
+      .poppins-medium {
+        font-family: "Poppins", sans-serif;
+        font-weight: 500;
+        font-style: normal;
+      }
+      
+      .poppins-semibold {
+        font-family: "Poppins", sans-serif;
+        font-weight: 600;
+        font-style: normal;
+      }
+      
+      .poppins-bold {
+        font-family: "Poppins", sans-serif;
+        font-weight: 700;
+        font-style: normal;
+      }
+      
+      .poppins-extrabold {
+        font-family: "Poppins", sans-serif;
+        font-weight: 800;
+        font-style: normal;
+      }
+      
+      .poppins-black {
+        font-family: "Poppins", sans-serif;
+        font-weight: 900;
+        font-style: normal;
+      }
+      
+      .poppins-thin-italic {
+        font-family: "Poppins", sans-serif;
+        font-weight: 100;
+        font-style: italic;
+      }
+      
+      .poppins-extralight-italic {
+        font-family: "Poppins", sans-serif;
+        font-weight: 200;
+        font-style: italic;
+      }
+      
+      .poppins-light-italic {
+        font-family: "Poppins", sans-serif;
+        font-weight: 300;
+        font-style: italic;
+      }
+      
+      .poppins-regular-italic {
+        font-family: "Poppins", sans-serif;
+        font-weight: 400;
+        font-style: italic;
+      }
+      
+      .poppins-medium-italic {
+        font-family: "Poppins", sans-serif;
+        font-weight: 500;
+        font-style: italic;
+      }
+      
+      .poppins-semibold-italic {
+        font-family: "Poppins", sans-serif;
+        font-weight: 600;
+        font-style: italic;
+      }
+      
+      .poppins-bold-italic {
+        font-family: "Poppins", sans-serif;
+        font-weight: 700;
+        font-style: italic;
+      }
+      
+      .poppins-extrabold-italic {
+        font-family: "Poppins", sans-serif;
+        font-weight: 800;
+        font-style: italic;
+      }
+      
+      .poppins-black-italic {
+        font-family: "Poppins", sans-serif;
+        font-weight: 900;
+        font-style: italic;
+      }
+      
+}
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-family: "Poppins";
+}
+.header1{
+background-image: url(./bg-image.png);
+width: 1900px;
+padding: 100px;
+
+}
+.conteiner{
+    margin: 0 auto;
+    width: 1400px;
+    color: gray;
+}
+.ul-header{
+    display: flex;
+    align-items: center;
+    gap: 25px;
+
+}
+.user{
+    display: flex;
+    align-items: center;
+ gap: 10px;
+}
+.text{
+    display: flex;
+    flex-direction: column;
+   text-align: end;
+}
+.p-header2{
+    color: white;
+}
+.d{
+display: flex;
+align-items: center;
+flex-direction: column;
+gap: 50px;
+font-family: "Poppins";
+
+}
+.d1{
+    font-size: 50px;
+    color: white;
+    margin-top: 200px;
+
+}
+.button-3d{
+    width: 270px;
+    padding: 27px;
+    background-color: #7B61FF;
+    border: none;
+    border-radius: 10px;
+    color: white;
+
+}
+.menu{
+    width: 1300px;
+    background-color: white;
+    border: none;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+gap: 30px;
+margin-top: 100px;
+
+}
+.text1{
+    display: flex;
+    gap: 20px;
+color: black;
+font-family: "Poppins";
+padding: 20px;
+display: flex;
+align-items: center;
+font-family: 20px   ;
+
+
+
+}
+h1.group{
+    text-align: center;
+}
+.omg{
+    width: 50px;
+    height: 50px;
+    background-color: #7B61FF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    border-radius: 10px;
+}
+.popular{
+    margin-top: 50px;
+    font-family:'Poppins';
+
+
+}
+.h2-oimg4{
+    font-family:'Poppins';
+color: black;
+}
+.img-text{
+    display: flex;
+  color: black;
+    flex-direction: column;
+    font-size: 20px;
+}
+.populat-all{
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+.p-mesto{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
